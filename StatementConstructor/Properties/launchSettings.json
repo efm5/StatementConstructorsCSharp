@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StatementConstructors": {
+      "commandName": "Project",
+      "commandLineArgs": "terminate region"
+    }
+  }
+}

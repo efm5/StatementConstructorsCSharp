@@ -1,0 +1,16 @@
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\bin\Release\net10.0-windows7.0\StatementConstructor.exe
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\bin\Release\net10.0-windows7.0\StatementConstructor.deps.json
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\bin\Release\net10.0-windows7.0\StatementConstructor.runtimeconfig.json
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\bin\Release\net10.0-windows7.0\StatementConstructor.dll
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\bin\Release\net10.0-windows7.0\StatementConstructor.pdb
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructors.WhatCanISay.resources
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructor.csproj.GenerateResource.cache
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructor.AssemblyInfoInputs.cache
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructor.AssemblyInfo.cs
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructor.csproj.CoreCompileInputs.cache
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructor.dll
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\refint\StatementConstructor.dll
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructor.pdb
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\StatementConstructor.genruntimeconfig.cache
+D:\StatementConstructors\C#StatementConstructors\StatementConstructor\obj\Release\net10.0-windows7.0\ref\StatementConstructor.dll

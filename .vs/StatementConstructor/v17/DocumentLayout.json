@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StatementConstructors\\StatementConstructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|d:\\statementconstructors\\statementconstructors\\statementconstructor\\massageinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|solutionrelative:statementconstructor\\massageinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|d:\\statementconstructors\\statementconstructors\\statementconstructor\\snippetmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|solutionrelative:statementconstructor\\snippetmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|d:\\statementconstructors\\statementconstructors\\statementconstructor\\snippetdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|solutionrelative:statementconstructor\\snippetdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|d:\\statementconstructors\\statementconstructors\\statementconstructor\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|solutionrelative:statementconstructor\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|d:\\statementconstructors\\statementconstructors\\statementconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|solutionrelative:statementconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|d:\\statementconstructors\\statementconstructors\\statementconstructor\\statementconstructor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|solutionrelative:statementconstructor\\statementconstructor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|d:\\statementconstructors\\statementconstructors\\statementconstructor\\buildandsendvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|solutionrelative:statementconstructor\\buildandsendvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|d:\\statementconstructors\\statementconstructors\\statementconstructor\\whatcanisay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A9D9D0-89D6-4F69-89AB-CF523EAF4CCA}|StatementConstructor\\StatementConstructor.csproj|solutionrelative:statementconstructor\\whatcanisay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatementConstructor",
+              "DocumentMoniker": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\StatementConstructor.csproj",
+              "RelativeDocumentMoniker": "StatementConstructor\\StatementConstructor.csproj",
+              "ToolTip": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\StatementConstructor.csproj",
+              "RelativeToolTip": "StatementConstructor\\StatementConstructor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T00:23:01.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "StatementConstructor\\Program.cs",
+              "ToolTip": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\Program.cs",
+              "RelativeToolTip": "StatementConstructor\\Program.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAAL4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:22:48.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnippetMethods.cs",
+              "DocumentMoniker": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\SnippetMethods.cs",
+              "RelativeDocumentMoniker": "StatementConstructor\\SnippetMethods.cs",
+              "ToolTip": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\SnippetMethods.cs",
+              "RelativeToolTip": "StatementConstructor\\SnippetMethods.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwE4BAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:10:57.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SnippetDictionary.cs",
+              "DocumentMoniker": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\SnippetDictionary.cs",
+              "RelativeDocumentMoniker": "StatementConstructor\\SnippetDictionary.cs",
+              "ToolTip": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\SnippetDictionary.cs",
+              "RelativeToolTip": "StatementConstructor\\SnippetDictionary.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAhwBsBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:11:44.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MassageInput.cs",
+              "DocumentMoniker": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\MassageInput.cs",
+              "RelativeDocumentMoniker": "StatementConstructor\\MassageInput.cs",
+              "ToolTip": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\MassageInput.cs",
+              "RelativeToolTip": "StatementConstructor\\MassageInput.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAewGUBAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:12:45.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuildAndSendVariables.cs",
+              "DocumentMoniker": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\BuildAndSendVariables.cs",
+              "RelativeDocumentMoniker": "StatementConstructor\\BuildAndSendVariables.cs",
+              "ToolTip": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\BuildAndSendVariables.cs",
+              "RelativeToolTip": "StatementConstructor\\BuildAndSendVariables.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:12:35.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\Class1.cs",
+              "RelativeDocumentMoniker": "StatementConstructor\\Class1.cs",
+              "ToolTip": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\Class1.cs",
+              "RelativeToolTip": "StatementConstructor\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:20:47.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WhatCanISay.cs",
+              "DocumentMoniker": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\WhatCanISay.cs",
+              "RelativeDocumentMoniker": "StatementConstructor\\WhatCanISay.cs",
+              "ToolTip": "D:\\StatementConstructors\\StatementConstructors\\StatementConstructor\\WhatCanISay.cs",
+              "RelativeToolTip": "StatementConstructor\\WhatCanISay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:23:23.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
